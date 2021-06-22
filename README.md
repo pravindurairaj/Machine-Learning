@@ -1,2 +1,2 @@
 # Machine-Learning
-This repository contains basic machine learning algorithms
+This repository contains machine learning algorithm implementations
